@@ -1,0 +1,53 @@
+name: vknder_test
+description: "A fresh Flutter project for VKNDR Test."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+
+  flutter:
+    sdk: flutter
+
+
+  # Firebase
+  firebase_core: ^2.32.0
+  firebase_auth: ^4.20.0
+  cloud_firestore: ^4.17.5
+  firebase_database: ^10.5.7
+  intl: ^0.19.0
+
+  # UI & Utility
+  google_fonts: ^6.1.0
+  lottie: ^3.1.0
+  dropdown_button2: ^2.3.9
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  change_app_package_name: ^1.4.0
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  flutter_launcher_icons: ^0.13.1
+  flutter_native_splash: ^2.4.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/animations/
+
+# flutter_launcher_icons configuration
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/logo.png"
+  remove_alpha_ios: true
+
+# flutter_native_splash configuration
+
+

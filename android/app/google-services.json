@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "678824214793",
+    "project_id": "otpauth-d0a80",
+    "storage_bucket": "otpauth-d0a80.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678824214793:android:a4291ac38701465f1ad3d8",
+        "android_client_info": {
+          "package_name": "com.example.vknder_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOaG1-Eh3UgI69nicGzcsxyvB9U8Uxgn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
