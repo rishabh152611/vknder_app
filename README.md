@@ -40,8 +40,6 @@ A sleek, real-time mobile app built with Flutter to empower users in creating, d
 
 <img src="https://github.com/user-attachments/assets/bff64137-7fe7-48cc-8a2a-c66fd988bd05" alt="Screenshot 9" width="300"/>
 
-<img src="https://github.com/user-attachments/assets/e1d18bbf-97dc-4cbd-85ce-84e4dc1946bd" alt="Screenshot 10" width="300"/>
-
 <img src="https://github.com/user-attachments/assets/b5b7fee8-18de-4de3-a157-1722c912a751" alt="Screenshot 11" width="300"/>
 
 <img src="https://github.com/user-attachments/assets/312f50d7-7d94-4de6-9a6b-8f700ef2193d" alt="Screenshot 12" width="300"/>
@@ -51,18 +49,6 @@ A sleek, real-time mobile app built with Flutter to empower users in creating, d
 <img src="https://github.com/user-attachments/assets/a0b0ee16-11d3-4a3a-bc54-e789e342bf43" alt="Screenshot 14" width="300"/>
 
 <img src="https://github.com/user-attachments/assets/1dba9d42-ada8-4240-92a5-8924076d841d" alt="Screenshot 15" width="300"/>
-
-<img src="https://github.com/user-attachments/assets/0aed83ce-24d8-40b8-ae53-745a6cb71145" alt="Screenshot 16" width="300"/>
-
-<img src="https://github.com/user-attachments/assets/3a5af48f-45ed-4442-beb1-4af62cbc2dbe" alt="Screenshot 17" width="300"/>
-
-<img src="https://github.com/user-attachments/assets/f12617fb-064b-4af5-9dd5-1f46aed5251f" alt="Screenshot 18" width="300"/>
-
-<img src="https://github.com/user-attachments/assets/a583e782-c07f-424a-b06d-b83c047a4105" alt="Screenshot 19" width="300"/>
-
-<img src="https://github.com/user-attachments/assets/62eb6ca2-6c17-4907-a922-ae4b1eef263c" alt="Screenshot 20" width="300"/>
-
-<img src="https://github.com/user-attachments/assets/22d61f3c-9b27-4ef4-a136-5d5cf9fb839f" alt="Screenshot 21" width="300"/>
 
 <img src="https://github.com/user-attachments/assets/f4dbea3e-0ea9-4d35-b5e3-11f94d0c33c3" alt="Screenshot 22" width="300"/>
 
