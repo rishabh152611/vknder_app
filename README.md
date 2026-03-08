@@ -1,4 +1,3 @@
-
 # vknder — Social Event & Meetup Platform
 
 A sleek, real-time mobile app built with Flutter to empower users in creating, discovering, and joining events seamlessly. vknder focuses on campus communities, clubs, and local meetups, providing intuitive tools for event management and social interaction.
